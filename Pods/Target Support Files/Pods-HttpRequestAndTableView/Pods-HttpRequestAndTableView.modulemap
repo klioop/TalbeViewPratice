@@ -1,0 +1,6 @@
+framework module Pods_HttpRequestAndTableView {
+  umbrella header "Pods-HttpRequestAndTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
